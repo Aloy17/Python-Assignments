@@ -1,0 +1,6 @@
+print(2 + 3 * 4) 
+print((2 + 3) * 4) 
+print(17 // 5, 17 % 5) 
+print(2 ** 3 ** 2) 
+print(5 > 3 and 2 < 1) 
+print(not (5 == 5))
